@@ -1,4 +1,4 @@
-# <p align="center">EX. 2 - INSTALLATION OF OS - CASE STUDY</p>
+# EX. 2 - INSTALLATION OF OS - CASE STUDY</p>
 
 ## **Aim:**
 
